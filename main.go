@@ -1,1 +1,0 @@
-﻿package main; import "fmt"; func main() { fmt.Println("Nexus-Auth-2026: System Initialized!"); fmt.Println("Status: Online and ready for deployment.") }
